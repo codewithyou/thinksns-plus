@@ -246,7 +246,7 @@ git submodule add https://github.com/Laradock/laradock && cd laradock
 ### 配置 Laradock
 
 ```
-cp env.example .env && vi .env
+cp env-example .env & vi .env
 ```
 
 然后根据你的实际环境修改变量
